@@ -110,6 +110,18 @@ import Demo from '../components/lib/demo/index.js';
 Vue.use(Demo);
 ```
 
+(2) 在 App.vue 使用 demo 组件
+
+```js
+<template>
+  <div id="app">
+    <img alt="Vue logo" src="./assets/logo.png">
+    // 注意直接写即可，不用 import 也不用在 components 中定义
+    <demo-component />
+  </div>
+</template>
+```
+
 ### 6. 提取 css 文件到 dist
 
 ### 7. 修改项目配置
