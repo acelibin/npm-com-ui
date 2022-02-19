@@ -112,11 +112,11 @@ Vue.use(Demo);
 
 (2) 在 App.vue 使用 demo 组件
 
-```js
+```html
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    // 注意直接写即可，不用 import 也不用在 components 中定义
+    <!-- 注意：直接写即可，不用 import 也不用在 components 中定义 -->
     <demo-component />
   </div>
 </template>
