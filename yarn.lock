@@ -2639,6 +2639,7 @@
     "strip-eof" "^1.0.0"
 
 "execa@^5.0.0":
+  "integrity" "sha512-8uSpZZocAZRBAPIEINJj3Lo9HyGitllczc27Eh5YYojjMFMn8yHMDMaUHE2Jqfq05D/wucwI4JGURyXt1vchyg=="
   "resolved" "https://registry.npmjs.org/execa/-/execa-5.1.1.tgz"
   "version" "5.1.1"
   dependencies:
@@ -2849,6 +2850,7 @@
     "pump" "^3.0.0"
 
 "get-stream@^6.0.0":
+  "integrity" "sha512-ts6Wi+2j3jQjqi70w5AlN8DFnkSwC+MqmxEzdEALB2qXZYV3X/b1CTfgPLGJNMeAWxdPfU8FO1ms3NUfaHCPYg=="
   "resolved" "https://registry.npmjs.org/get-stream/-/get-stream-6.0.1.tgz"
   "version" "6.0.1"
 
@@ -2949,6 +2951,7 @@
   "version" "1.0.2"
 
 "hash-sum@^2.0.0":
+  "integrity" "sha512-WdZTbAByD+pHfl/g9QSsBIIwy8IT+EsPiKDs0KNX+zSHhdDLFKdZu0BQHljvO+0QI/BasbMSUa8wYNCZTvhslg=="
   "resolved" "https://registry.npmjs.org/hash-sum/-/hash-sum-2.0.0.tgz"
   "version" "2.0.0"
 
@@ -3235,6 +3238,7 @@
   "version" "1.1.0"
 
 "is-stream@^2.0.0":
+  "integrity" "sha512-hFoiJiTl63nn+kstHGBtewWSKnQLpyb155KHheA1l39uvtO9nWIop1p3udqPcUd/xbF1VLMO4n7OI6p7RbngDg=="
   "resolved" "https://registry.npmjs.org/is-stream/-/is-stream-2.0.1.tgz"
   "version" "2.0.1"
 
@@ -3400,6 +3404,7 @@
     "json5" "^1.0.1"
 
 "loader-utils@^2.0.0":
+  "integrity" "sha512-TM57VeHptv569d/GKh6TAYdzKblwDNiumOdkFnejjD0XwTH87K90w3O7AiJRqdQoXygvi1VQTJTLGhJl7WqA7A=="
   "resolved" "https://registry.npmjs.org/loader-utils/-/loader-utils-2.0.2.tgz"
   "version" "2.0.2"
   dependencies:
@@ -3699,6 +3704,15 @@
   "resolved" "https://registry.npmjs.org/normalize-url/-/normalize-url-6.1.0.tgz"
   "version" "6.1.0"
 
+"npm-com-ui@^0.1.18", "npm-com-ui@^0.1.19":
+  "integrity" "sha512-Ofox90aPxw8krIRGeOGvKYAEJFJtwzDKz5p8HkXYJQ9tI9tpTjlXQ3NyCpUdXNHQtXV+e9shGdEbGC+pubRnpw=="
+  "resolved" "https://registry.npmjs.org/npm-com-ui/-/npm-com-ui-0.1.19.tgz"
+  "version" "0.1.19"
+  dependencies:
+    "core-js" "^3.8.3"
+    "npm-com-ui" "^0.1.18"
+    "vue" "^2.6.14"
+
 "npm-run-path@^2.0.0":
   "resolved" "https://registry.npmjs.org/npm-run-path/-/npm-run-path-2.0.2.tgz"
   "version" "2.0.2"
@@ -3706,6 +3720,7 @@
     "path-key" "^2.0.0"
 
 "npm-run-path@^4.0.1":
+  "integrity" "sha512-S48WzZW777zhNIrn7gxOlISNAqi9ZC/uQFnRdbeIHhZhCA6UqpkOT8T1G7BvfdgP4Er8gF4sUbaS0i7QvIfCWw=="
   "resolved" "https://registry.npmjs.org/npm-run-path/-/npm-run-path-4.0.1.tgz"
   "version" "4.0.1"
   dependencies:
@@ -3903,6 +3918,7 @@
   "version" "2.0.1"
 
 "path-key@^3.0.0":
+  "integrity" "sha512-ojmeN0qd+y0jszEtoY48r0Peq5dwMEkIlCOu6Q5f41lfkswXuKtYrhgoTpLnyIcHm24Uhqx+5Tqm2InSwLhE6Q=="
   "resolved" "https://registry.npmjs.org/path-key/-/path-key-3.1.1.tgz"
   "version" "3.1.1"
 
@@ -5031,6 +5047,7 @@
   "version" "2.3.4"
 
 "vue-loader@^17.0.0":
+  "integrity" "sha512-OWSXjrzIvbF2LtOUmxT3HYgwwubbfFelN8PAP9R9dwpIkj48TVioHhWWSx7W7fk+iF5cgg3CBJRxwTdtLU4Ecg=="
   "resolved" "https://registry.npmjs.org/vue-loader/-/vue-loader-17.0.0.tgz"
   "version" "17.0.0"
   dependencies:

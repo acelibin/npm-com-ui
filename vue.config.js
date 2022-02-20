@@ -8,5 +8,9 @@ module.exports = defineConfig({
       template: 'public/index.html',
       filename: 'index.html'
     }
-  }
+  },
+  css: {
+    // 不提取CSS
+    extract: false
+  },
 })
