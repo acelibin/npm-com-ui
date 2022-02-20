@@ -12,8 +12,12 @@ import App from './App.vue'
 // Vue.use(Common);
 
 // npm 库安装后全局引入
-import Common from 'npm-com-ui'
-Vue.use(Common);
+// import Common from 'npm-com-ui'
+// Vue.use(Common);
+
+// 按需引入，暂时只能这样
+import Demo from 'npm-com-ui';
+Vue.use(Demo);
 
 Vue.config.productionTip = false
 

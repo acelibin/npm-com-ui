@@ -2,7 +2,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <demo-component />
-    <test-component />
+    <!-- <test-component /> -->
   </div>
 </template>
 
